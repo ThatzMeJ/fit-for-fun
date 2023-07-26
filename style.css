@@ -105,7 +105,7 @@ section p {
   width: 50rem;
 }
 
-section button {
+section a {
   width: 200px;
   padding: 15px 0;
   margin: 20px 10px;
@@ -117,7 +117,7 @@ section button {
   transition: 0.25s ease-in-out;
 }
 
-section button a {
+section  a {
   color: white;
   font-size: 1rem;
   font-family: var(--ff-poppins);
@@ -126,7 +126,7 @@ section button a {
   text-decoration: none;
 }
 
-section button:hover {
+section a:hover {
   background-color: #009688;
 }
 
@@ -142,6 +142,3 @@ section button:hover {
   border: 2px solid #009688;
 }
 
-.main-box {
-  
-}
